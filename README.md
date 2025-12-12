@@ -8,11 +8,11 @@ This repository contains the solutions for **Task 1** and **Task 2** of the Assi
 ## Description
 
 These programs demonstrate basic Python concepts such as:
--Variables
--Input and output
--Conditional statements
--Loops
--Basic calculations
+- **Variables**
+- **Input and Output**
+- **Conditional statements**
+- **Loops**
+- **Basic calculations**
 Each script follows the assignment instructions and produces the required output.
 
 ---
