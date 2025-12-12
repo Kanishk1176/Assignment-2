@@ -5,7 +5,7 @@ This repository contains the solutions for **Task 1** and **Task 2** of the Assi
 - **Assignment2_task1.py** – Checks whether the number entered is even or odd.  
 - **Assignment2_task2.py** – Calculates the sum of integers from 1 to 50
 
-##Description
+## Description
 
 These programs demonstrate basic Python concepts such as:
 -Variables
