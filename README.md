@@ -13,6 +13,7 @@ These programs demonstrate basic Python concepts such as:
 - **Conditional statements**
 - **Loops**
 - **Basic calculations**
+
 Each script follows the assignment instructions and produces the required output.
 
 ---
